@@ -6,5 +6,3 @@ if(ch == 'a' or ch == 'e' or ch == 'i' or ch == 'o' or ch == 'u' or ch == 'A'
     print("The Given Character ", ch, "is a Vowel")
 else:
     print("The Given Character ", ch, "is a Consonant")
-	
-raw_input()
